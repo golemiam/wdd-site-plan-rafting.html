@@ -28,7 +28,7 @@ main section img {
 
 #background {
     height: 725px;
-    background-color: #457B9D;
+    background-color: #E63946;
 }
 
 body {
