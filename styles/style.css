@@ -1,4 +1,8 @@
-@import Raleway, 'Rock Salt', 'Bradley Hand', Arial, sans-serif
+@import 'Raleway'
+@import 'Rock Salt'
+@import 'Bradley Hand'
+@import 'Arial'
+@import 'sans-serif'
 
 #content {
     max-width: 1600px;
